@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P08 Map</string>
+    <string-array name="location">
+        <item>North</item>
+        <item>Central</item>
+        <item>East</item>
+    </string-array>
+
+</resources>
